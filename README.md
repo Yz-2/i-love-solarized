@@ -3,7 +3,9 @@
 Solarizedのリンク集
 
 based on  
+
 [Solarized](https://ethanschoonover.com/solarized/)
+
 [altercation/solarized: precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes](https://github.com/altercation/solarized)
 
 ## vim
