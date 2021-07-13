@@ -27,6 +27,12 @@ based on
 
 - [seebi/dircolors-solarized: This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.](https://github.com/seebi/dircolors-solarized)
 
+## wallpaper
+
+- [[51+] Solarized Wallpaper on WallpaperSafari](https://wallpapersafari.com/solarized-wallpapers/)
+- [Solarized Wallpapers - Wallpaper Cave](https://wallpapercave.com/solarized-wallpapers)
+
+
 ## その他
 
 - Wikipedia
