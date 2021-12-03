@@ -23,6 +23,10 @@ based on
 - [tomislav/osx-terminal.app-colors-solarized: Solarized color theme for OS X 10.7+ Terminal.app](https://github.com/tomislav/osx-terminal.app-colors-solarized)
 - [aruhier/gnome-terminal-colors-solarized: Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized](https://github.com/aruhier/gnome-terminal-colors-solarized)  
 
+## Alacritty
+
+[alacritty-theme/solarized_dark.yaml at master · eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme/blob/master/themes/solarized_dark.yaml)
+
 ## dircolors
 
 - [seebi/dircolors-solarized: This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.](https://github.com/seebi/dircolors-solarized)
